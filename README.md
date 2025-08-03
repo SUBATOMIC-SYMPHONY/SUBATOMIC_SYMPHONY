@@ -38,7 +38,7 @@ Locate the file  sorted_data in your system and re import it or update the link 
 
 ## Documentation
 
-Please refer to [this](https://jumbled-room-225.notion.site/TopToMidi-Documentation-2e1aed6255e14178a6a682204990fec6) regarding how Top To Midi works. - thanks Dan:
+Please refer to [this](https://jumbled-room-225.notion.site/TopToMidi-Documentation-2e1aed6255e14178a6a682204990fec6) regarding how Top To Midi works. 
 
 Each event is composed by 3 different particles an one Neutrino called P0, P1, P2, N. Each particle is represented on a cirle according to the sin and cos of the angles Phi and Eta (Phi=the angle between the z axis and the vector / Eta= the angle between the x axis and the vector). 
 
