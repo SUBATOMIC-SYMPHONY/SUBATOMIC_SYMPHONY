@@ -44,7 +44,9 @@ Please refer to [this](https://jumbled-room-225.notion.site/TopToMidi-Documentat
 
 // Event displayer // 
 
-Each event is composed by 3 different particles an one Neutrino called P0, P1, P2, N. Each particle is represented on a cirle according to the sin and cos of the angles Phi and Eta (Phi=the angle between the z axis and the vector / Eta= the angle between the x axis and the vector). 
+Each event is composed by 3 different particles and one Neutrino called P0, P1, P2, N. Each particle is represented on a cirle according to the sin and cos of the angles Phi and Eta:
+- Phi = the angle between the z axis and the vector
+- Eta= the angle between the x axis and the vector 
 
 Each event is generated subsequently one after the other and each particle inside the event is triggered randomly (for the moment). 
 
