@@ -53,7 +53,8 @@ Each particle generates a sound according to the specific point of the sampler b
 
 Phi and % control also the Scale and Key being used.
 
-<img width="1414" height="1422" alt="Screenshot 2025-08-03 162413" src="https://github.com/user-attachments/assets/ea0018ff-a126-4266-9cf4-6f11d2129afc" />
+
+<img width="1935" height="965" alt="Screenshot 2025-08-03 175625" src="https://github.com/user-attachments/assets/35b740f3-43eb-46b0-ab11-1d19618ce6c1" />
 
 
 
