@@ -79,4 +79,10 @@ The project uses Audio VST chops in order to generate sounds. The button Â´ShowÂ
 - Create a more consistent time control system
 - Create more custom scales
 - Extend this Readme:)
+- Buy the full version of the [Plug in](https://hy-plugins.com/product/hy-poly/) (60$) + 4 Sequencer [Bundle](https://hy-plugins.com/product/hy-seq16x3-and-hy-mpswinmac/) ( the bundle contains also this Euclidean sequencer which looks like the Hledron collider section :)
+
+<img width="1734" height="1127" alt="Screenshot 2025-08-08 190123" src="https://github.com/user-attachments/assets/2082c39f-caff-4b7e-99bd-d3477e6cb2ce" />
+<img width="1665" height="1146" alt="Screenshot 2025-08-08 185835" src="https://github.com/user-attachments/assets/26b691e0-dfcf-4a98-a682-31b32402d16f" />
+
+
 
