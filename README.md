@@ -61,6 +61,9 @@ Phi and % control also the Scale and Key being used.
 The project uses Audio VST chops in order to generate sounds. The button ´Show´ opens the Plug in GUI in which you can edit oscillators, filters, envelopes and the mixing of each channel in the composition. To see the full documentation of the Touchdesigner component see [here](https://docs.derivative.ca/index.php?title=Audio_VST_CHOP) , to see the full manual of the the plug in see [here](https://hy-plugins.com/wp-content/uploads/2020/hypoly_manual.pdf).
 
 
+<img width="1435" height="590" alt="Screenshot 2025-08-08 171135" src="https://github.com/user-attachments/assets/3669eaab-5dbd-4c54-8359-dbe91740a28e" />
+
+
 
 
 ## Acknowledgements
