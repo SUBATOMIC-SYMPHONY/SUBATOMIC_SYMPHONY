@@ -53,15 +53,20 @@ Each particle generates a sound according to the specific point of the sampler b
 
 Phi and % control also the Scale and Key being used.
 
-
 <img width="1935" height="965" alt="Screenshot 2025-08-03 175625" src="https://github.com/user-attachments/assets/35b740f3-43eb-46b0-ab11-1d19618ce6c1" />
+
+
+### Audio VST Documentation
+
+The project uses Audio VST chops in order to generate sounds. The button ´Show´ opens the Plug in GUI in which you can edit oscillators, filters, envelopes and the mixing of each channel in the composition. To see the full documentation of the Touchdesigner component see [here](https://docs.derivative.ca/index.php?title=Audio_VST_CHOP) , to see the full manual of the the plug in see [here](https://hy-plugins.com/wp-content/uploads/2020/hypoly_manual.pdf).
+
 
 
 
 ## Acknowledgements
 
 
- - Using [Top to Midi](https://jumbled-room-225.notion.site/TopToMidi-Documentation-2e1aed6255e14178a6a682204990fec6) from [function_store](https://github.com/function-store) - thanks Dan!
+ - Using [Top to Midi](https://jumbled-room-225.notion.site/TopToMidi-Documentation-2e1aed6255e14178a6a682204990fec6) from [function_store](https://github.com/function-store) and [Hy-Plugins](https://hy-plugins.com/hy-delay2_manual/)
 
 
 ## Next Steps
