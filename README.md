@@ -44,7 +44,7 @@ Each event is composed by 3 different particles and one Neutrino called P0, P1, 
 - Phi = the angle between the z axis and the vector
 - Eta= the angle between the x axis and the vector
 
-Each event is generated subsequently one after the other and each particle inside the event is triggered randomly (for the moment). 
+Each event is generated subsequently one after the other and each particle inside the event is triggered according its Pt. 
 
 The size of each particle is related to the Pt of that particle.
 The diameter of the circle driving the sampler points is controlled by the % of each event (last column of the dataset).
