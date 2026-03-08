@@ -54,7 +54,7 @@ Each particle generates a sound according to the specific point of the sampler b
 Phi and % control also the Scale and Key being used.
 
 <img width="1935" height="965" alt="Screenshot 2025-08-03 175625" src="https://github.com/user-attachments/assets/35b740f3-43eb-46b0-ab11-1d19618ce6c1" />
-<img width="1561" height="1620" alt="Screenshot 2026-03-08 165306" src="https://github.com/user-attachments/assets/50990b71-9c71-41bb-9a27-d9aa62b3a67b" />
+
 
 ### Audio VST Documentation
 
